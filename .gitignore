@@ -1,0 +1,15 @@
+# Vivado / Vitis generated files (prebuilt files are attached to Releases)
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+.Xil/
+.metadata/
+.DS_Store
+
+# ADI Mykonos ARM firmware header: download from Analog Devices, do not commit (see FMC_AD9371_PS/ad9371/README.md)
+Mykonos_M3.h
